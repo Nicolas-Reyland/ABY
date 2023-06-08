@@ -3,4 +3,4 @@
 	url = git@github.com:Nicolas-Reyland/ENCRYPTO_utils.git
 [submodule "extern/OTExtension"]
 	path = extern/OTExtension
-	url = https://github.com/encryptogroup/OTExtension.git
+	url = git@github.com:Nicolas-Reyland/OTExtension.git
